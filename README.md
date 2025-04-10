@@ -3,8 +3,7 @@
 A simple Pong game built with HTML5 Canvas and plain JavaScript. Two paddles, a bouncing ball, and a basic AI opponent. First to 10 wins!
 
 ## Picture
-![alt text](<Screenshot 2025-04-09 at 10.59.04 PM.png>)
-
+![alt text](image.png)
 ## 🚀 Features
 
 - Classic Pong gameplay
