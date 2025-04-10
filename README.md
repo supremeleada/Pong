@@ -55,4 +55,4 @@ pong/
 ## 🖥️ Demo
 
 You can run this locally by opening `index.html` in your browser.
-
+or 👉 [Live Demo](https://supremeleada.github.io/Pong/)
